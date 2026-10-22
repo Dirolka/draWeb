@@ -7,8 +7,8 @@ Each student uses their own GitHub account and identifiable Git author name and 
 Accept the repository invitation, copy the real clone URL from GitHub and run:
 
 ```sh
-git clone <repository-url>
-cd draweb
+git clone https://github.com/Dirolka/draWeb.git
+cd draWeb
 git config user.name "Your full name"
 git config user.email "Your verified GitHub email"
 npm ci
