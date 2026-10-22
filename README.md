@@ -1,13 +1,34 @@
-# VisionForge AI
+# Draweb (VisionForge AI)
 
 A working Phase 1 visual React development workspace. The platform runs locally with a Node API, React/TypeScript frontend, SQLite persistence, Monaco editor, and real model-provider integrations. It is an MVP foundation, not the entire four-phase production platform.
+
+## Diploma project
+
+Draweb helps users turn a website idea or reference image into an editable React prototype. Target users are people prototyping websites who need to inspect generated source and refine the result visually. The expected outcome of the current phase is a locally runnable workspace with source editing, reviewed AI changes, persistence, preview and export.
+
+The current implementation is a Phase 1 MVP. The existing application/package name is VisionForge AI; the repository name is Draweb.
+
+### Team and project links
+
+| Role | Member | Responsibilities |
+| --- | --- | --- |
+| Repository contributor | Zholdubayev Diyar | Initial local import; detailed component ownership to be confirmed by the team |
+| Second student | To be supplied | Responsibilities to be agreed and recorded before new tasks |
+| Supervisor | To be supplied | Academic supervision and agreed review checkpoints |
+
+- YouTrack project: to be supplied.
+- Project documentation: [documentation index](docs/README.md).
+- Contribution process: [CONTRIBUTING.md](CONTRIBUTING.md).
+- Import history: [development history](docs/development-history.md).
+
+Member details, links and responsibilities above are incomplete; they must be filled in before a pre-defense submission. The import does not establish authorship of every existing component.
 
 ## Run
 
 Requires **Node.js 24+**.
 
 ```sh
-npm install
+npm ci
 npm run dev
 ```
 

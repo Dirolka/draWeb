@@ -1,12 +1,28 @@
+# Dependencies and build output
 node_modules/
 dist/
+
+# Local databases, credentials and runtime state
 data/
 .env
+.env.*
+!.env.example
+*.sqlite
+*.sqlite-*
+*.db
+*.db-*
+*.key
+*.pem
+
+# Test artifacts
 test-results/
 playwright-report/
 editor-preview.png
-.env.*
-!.env.example
+
+# Local tools and operating system files
 .DS_Store
 .idea/
 *.log
+
+# Local assignment handout (not a project deliverable)
+/До 24 октября.docx
