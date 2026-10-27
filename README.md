@@ -14,7 +14,7 @@ The current implementation is a Phase 1 MVP. The existing application/package na
 | --- | --- | --- |
 | Repository contributor | Zholdubayev Diyar ([Dirolka](https://github.com/Dirolka)) | Initial local import; detailed component ownership to be confirmed by the team |
 | Second student | Rassul Tokatov ([cybertora](https://github.com/cybertora)) | Responsibilities to be agreed and recorded before new tasks |
-| Supervisor | To be supplied | Academic supervision and agreed review checkpoints |
+| Supervisor | Praveen Kumar | Academic supervision and agreed review checkpoints |
 
 - YouTrack project: to be supplied.
 - Project documentation: [documentation index](docs/README.md).
